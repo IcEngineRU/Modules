@@ -1,0 +1,20 @@
+{
+    "name": "icengineru/modules",
+    "description": "Modular system in Laravel",    
+    "authors": [
+        {
+            "name": "IcEngine",
+            "email": "t9651671716@gmail.com"
+        }
+    ],
+    "license": "MIT", 
+    "type": "project",
+    "version": "1.0.0",
+    "minimum-stability": "dev",    
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IcEngineRU\\Modules\\": ""
+        }
+    }    
+}
